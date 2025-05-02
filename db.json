@@ -1,6 +1,7 @@
 {
   "empresas": [
     {
+      "id": 0,
       "taxIdNumber": "19854368000145",
       "establishmentType": {
         "code": 1,
