@@ -1,126 +1,130 @@
 {
-   "taxIdNumber": "19854368000145",
-   "establishmentType": {
-      "code": 1,
-      "description": "Matriz"
-   },
-   "legalName": "Skill Digital Soluções em Tecnologia e Ensino Ltda",
-   "tradeName": "Skill Digital",
-   "registrationStatus": {
-      "code": 2,
-      "description": "Ativa",
-      "statusDate": "2018/12/27",
-      "reason": null
-   },
-   "legalNature": {
-      "code": "2062",
-      "description": "Sociedade Empresária Limitada"
-   },
-   "incorporationDate": "2014/03/10",
-   "mainActivity": {
-      "code": "6201501",
-      "description": "Desenvolvimento de programas de computador sob encomenda"
-   },
-   "secondaryActivities": [
-      {
-         "code": "6202300",
-         "description": "Desenvolvimento e licenciamento de programas de computador customizáveis"
+  "empresa": [
+    {
+      "taxIdNumber": "19854368000145",
+      "establishmentType": {
+        "code": 1,
+        "description": "Matriz"
       },
-      {
-         "code": "6209100",
-         "description": "Suporte técnico, manutenção e outros serviços em tecnologia da informação"
-      }
-   ],
-   "address": {
-      "streetType": "Alameda",
-      "streetName": "Rio Negro",
-      "streetNumber": "500",
-      "complement": "Andar 5 Sala 501 a 508 Torre B",
-      "postalCode": "06454000",
-      "neighborhood": "Alphaville Centro Industrial e Empresarial",
-      "city": {
-         "code": "3505708",
-         "name": "Barueri"
+      "legalName": "Skill Digital Soluções em Tecnologia e Ensino Ltda",
+      "tradeName": "Skill Digital",
+      "registrationStatus": {
+        "code": 2,
+        "description": "Ativa",
+        "statusDate": "2018/12/27",
+        "reason": null
       },
-      "state": {
-         "acronym": "SP",
-         "name": "São Paulo"
+      "legalNature": {
+        "code": "2062",
+        "description": "Sociedade Empresária Limitada"
       },
-      "country": {
-         "code": "076",
-         "name": "Brasil"
-      }
-   },
-   "jurisdictionCity": {
-      "code": "3505708",
-      "name": "Barueri"
-   },
-   "phones": [
-      {
-         "areaCode": "11",
-         "phoneNumber": "91318102"
-      }
-   ],
-   "contactEmail": "juridico@wiseaccounting.com.br",
-   "shareCapitalAmount": 360000,
-   "companySizeCategory": {
-      "code": "05",
-      "description": "Demais empresas"
-   },
-   "specialTaxStatus": null,
-   "specialTaxStatusDate": null,
-   "simplesNacional": [
-      {
-         "isOptant": false,
-         "isMeiOptant": false,
-         "optInDate": null,
-         "optOutDate": null,
-         "exclusionReason": null
-      }
-   ],
-   "partners": [
-      {
-         "type": {
+      "incorporationDate": "2014/03/10",
+      "mainActivity": {
+        "code": "6201501",
+        "description": "Desenvolvimento de programas de computador sob encomenda"
+      },
+      "secondaryActivities": [
+        {
+          "code": "6202300",
+          "description": "Desenvolvimento e licenciamento de programas de computador customizáveis"
+        },
+        {
+          "code": "6209100",
+          "description": "Suporte técnico, manutenção e outros serviços em tecnologia da informação"
+        }
+      ],
+      "address": {
+        "streetType": "Alameda",
+        "streetName": "Rio Negro",
+        "streetNumber": "500",
+        "complement": "Andar 5 Sala 501 a 508 Torre B",
+        "postalCode": "06454000",
+        "neighborhood": "Alphaville Centro Industrial e Empresarial",
+        "city": {
+          "code": "3505708",
+          "name": "Barueri"
+        },
+        "state": {
+          "acronym": "SP",
+          "name": "São Paulo"
+        },
+        "country": {
+          "code": "076",
+          "name": "Brasil"
+        }
+      },
+      "jurisdictionCity": {
+        "code": "3505708",
+        "name": "Barueri"
+      },
+      "phones": [
+        {
+          "areaCode": "11",
+          "phoneNumber": "91318102"
+        }
+      ],
+      "contactEmail": "juridico@wiseaccounting.com.br",
+      "shareCapitalAmount": 360000,
+      "companySizeCategory": {
+        "code": "05",
+        "description": "Demais empresas"
+      },
+      "specialTaxStatus": null,
+      "specialTaxStatusDate": null,
+      "simplesNacional": [
+        {
+          "isOptant": false,
+          "isMeiOptant": false,
+          "optInDate": null,
+          "optOutDate": null,
+          "exclusionReason": null
+        }
+      ],
+      "partners": [
+        {
+          "type": {
             "code": 1,
             "description": "Pessoa Jurídica"
-         },
-         "taxId": "57010450000182",
-         "name": "Tech Maker Participações Ltda",
-         "role": {
+          },
+          "taxId": "57010450000182",
+          "name": "Tech Maker Participações Ltda",
+          "role": {
             "code": "22",
             "description": "Sócio"
-         },
-         "inclusionDate": "2024/09/23",
-         "country": {
+          },
+          "inclusionDate": "2024/09/23",
+          "country": {
             "code": "076",
             "name": "Brasil"
-         },
-         "legalRepresentative": {
+          },
+          "legalRepresentative": {
             "taxId": "***315761**",
             "name": "Lucas Malaquias Nascimento",
             "role": {
-               "code": "05",
-               "description": "Administrador"
+              "code": "05",
+              "description": "Administrador"
             }
-         }
-      },
-      {
-         "type": {
+          }
+        },
+        {
+          "type": {
             "code": 2,
             "description": "Pessoa Física"
-         },
-         "taxId": "***315761**",
-         "name": "Lucas Malaquias Nascimento",
-         "role": {
+          },
+          "taxId": "***315761**",
+          "name": "Lucas Malaquias Nascimento",
+          "role": {
             "code": "05",
             "description": "Administrador"
-         },
-         "inclusionDate": "2014/03/10",
-         "country": {
+          },
+          "inclusionDate": "2014/03/10",
+          "country": {
             "code": "076",
             "name": "Brasil"
-         },
-         "legalRepresentative": null
-      }
-   ]
+          },
+          "legalRepresentative": null
+        }
+      ]
+    }
+  ]
 }
