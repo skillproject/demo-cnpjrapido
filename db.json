@@ -9,22 +9,28 @@
       },
       "legalName": "Skill Digital Soluções em Tecnologia e Ensino Ltda",
       "tradeName": "Skill Digital",
-      "registrationStatus": {
-        "code": 2,
-        "description": "Ativa",
-        "statusDate": "2018/12/27",
-        "reason": null
-      },
+      "registrationStatus": [
+        {
+          "code": 2,
+          "description": "Ativa",
+          "effectiveDate": "2018/12/27",
+          "reason": undefined,
+          "type": {
+            "code": 1,
+            "description": "Principal"
+          }
+        }
+      ],
       "legalNature": {
         "code": "2062",
         "description": "Sociedade Empresária Limitada"
       },
       "incorporationDate": "2014/03/10",
-      "mainActivity": {
+      "mainEconomicActivity": {
         "code": "6201501",
         "description": "Desenvolvimento de programas de computador sob encomenda"
       },
-      "secondaryActivities": [
+      "secondaryEconomicActivities": [
         {
           "code": "6202300",
           "description": "Desenvolvimento e licenciamento de programas de computador customizáveis"
@@ -42,21 +48,33 @@
         "postalCode": "06454000",
         "neighborhood": "Alphaville Centro Industrial e Empresarial",
         "city": {
-          "code": "3505708",
-          "name": "Barueri"
-        },
-        "state": {
-          "acronym": "SP",
-          "name": "São Paulo"
-        },
-        "country": {
-          "code": "076",
-          "name": "Brasil"
+          "externalCode": "3505708",
+          "name": "Barueri",
+          "state": {
+            "acronym": "SP",
+            "name": "São Paulo",
+            "country": {
+              "nationalCode": "076",
+              "name": "Brasil",
+              "isoCode": "BRA",
+              "alpha2": "BR"
+            }
+          }
         }
       },
       "jurisdictionCity": {
-        "code": "3505708",
-        "name": "Barueri"
+        "externalCode": "3505708",
+        "name": "Barueri",
+        "state": {
+          "acronym": "SP",
+          "name": "São Paulo",
+          "country": {
+            "nationalCode": "076",
+            "name": "Brasil",
+            "isoCode": "BRA",
+            "alpha2": "BR"
+          }
+        }
       },
       "phones": [
         {
@@ -70,15 +88,13 @@
         "code": "05",
         "description": "Demais empresas"
       },
-      "specialTaxStatus": null,
-      "specialTaxStatusDate": null,
-      "simplesNacional": [
+      "specialTaxStatus": undefined,
+      "specialTaxStatusDate": undefined,
+      "simpleNational": [
         {
-          "isOptant": false,
           "isMeiOptant": false,
-          "optInDate": null,
-          "optOutDate": null,
-          "exclusionReason": null
+          "startDate": "",
+          "endDate": undefined
         }
       ],
       "partners": [
@@ -95,8 +111,10 @@
           },
           "inclusionDate": "2024/09/23",
           "country": {
-            "code": "076",
-            "name": "Brasil"
+            "nationalCode": "076",
+            "name": "Brasil",
+            "isoCode": "BRA",
+            "alpha2": "BR"
           },
           "legalRepresentative": {
             "taxId": "***315761**",
@@ -120,10 +138,12 @@
           },
           "inclusionDate": "2014/03/10",
           "country": {
-            "code": "076",
-            "name": "Brasil"
+            "nationalCode": "076",
+            "name": "Brasil",
+            "isoCode": "BRA",
+            "alpha2": "BR"
           },
-          "legalRepresentative": null
+          "legalRepresentative": undefined
         }
       ]
     }
