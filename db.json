@@ -146,6 +146,459 @@
           "legalRepresentative": null
         }
       ]
+    },
+    {
+      "id": 1,
+      "taxIdNumber": "07526557000100",
+      "legalName": "AMBEV S.A.",
+      "tradeName": "Ambev",
+      "establishmentType": {
+        "code": 1,
+        "description": "Matriz"
+      },
+      "legalNature": {
+        "code": "204-6",
+        "description": "Sociedade Anônima Aberta"
+      },
+      "companySizeCategory": {
+        "code": "DEMAIS",
+        "description": "Demais"
+      },
+      "mainEconomicActivity": {
+        "code": "11.13-5-02",
+        "description": "Fabricação de cervejas e chopes"
+      },
+      "secondaryEconomicActivities": [
+        {
+          "code": "01.11-3-99",
+          "description": "Cultivo de outros cereais não especificados anteriormente"
+        },
+        {
+          "code": "01.41-5-01",
+          "description": "Produção de sementes certificadas, exceto de forrageiras para pasto"
+        },
+        {
+          "code": "01.41-5-02",
+          "description": "Produção de sementes certificadas de forrageiras para formação de pasto"
+        },
+        {
+          "code": "10.64-3-00",
+          "description": "Fabricação de farinha de milho e derivados, exceto óleos de milho"
+        },
+        {
+          "code": "10.99-6-04",
+          "description": "Fabricação de gelo comum"
+        },
+        {
+          "code": "10.99-6-99",
+          "description": "Fabricação de outros produtos alimentícios não especificados anteriormente"
+        },
+        {
+          "code": "11.22-4-01",
+          "description": "Fabricação de refrigerantes"
+        },
+        {
+          "code": "17.31-1-00",
+          "description": "Fabricação de embalagens de papel"
+        },
+        {
+          "code": "18.13-0-01",
+          "description": "Impressão de material para uso publicitário"
+        },
+        {
+          "code": "18.13-0-99",
+          "description": "Impressão de material para outros usos"
+        },
+        {
+          "code": "20.14-2-00",
+          "description": "Fabricação de gases industriais"
+        },
+        {
+          "code": "22.22-6-00",
+          "description": "Fabricação de embalagens de material plástico"
+        },
+        {
+          "code": "23.12-5-00",
+          "description": "Fabricação de embalagens de vidro"
+        },
+        {
+          "code": "25.91-8-00",
+          "description": "Fabricação de embalagens metálicas"
+        },
+        {
+          "code": "46.23-1-99",
+          "description": "Comércio atacadista de matérias-primas agrícolas não especificadas anteriormente"
+        },
+        {
+          "code": "46.35-4-02",
+          "description": "Comércio atacadista de cerveja, chope e refrigerante"
+        },
+        {
+          "code": "46.37-1-99",
+          "description": "Comércio atacadista especializado em outros produtos alimentícios não especificados anteriormente"
+        },
+        {
+          "code": "46.46-0-01",
+          "description": "Comércio atacadista de cosméticos e produtos de perfumaria"
+        },
+        {
+          "code": "46.46-0-02",
+          "description": "Comércio atacadista de produtos de higiene pessoal"
+        },
+        {
+          "code": "46.49-4-08",
+          "description": "Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar"
+        },
+        {
+          "code": "46.86-9-02",
+          "description": "Comércio atacadista de embalagens"
+        },
+        {
+          "code": "46.92-3-00",
+          "description": "Comércio atacadista de mercadorias em geral, com predominância de insumos agropecuários"
+        },
+        {
+          "code": "62.03-1-00",
+          "description": "Desenvolvimento e licenciamento de programas de computador não-customizáveis"
+        },
+        {
+          "code": "63.19-4-00",
+          "description": "Portais, provedores de conteúdo e outros serviços de informação na internet"
+        },
+        {
+          "code": "70.20-4-00",
+          "description": "Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica"
+        },
+        {
+          "code": "73.11-4-00",
+          "description": "Agências de publicidade"
+        },
+        {
+          "code": "73.12-2-00",
+          "description": "Agenciamento de espaços para publicidade, exceto em veículos de comunicação"
+        },
+        {
+          "code": "74.90-1-04",
+          "description": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+        },
+        {
+          "code": "77.40-3-00",
+          "description": "Gestão de ativos intangíveis não-financeiros"
+        }
+      ],
+      "jurisdictionCity": {
+        "externalCode": "3550308",
+        "name": "São Paulo",
+        "state": {
+          "acronym": "SP",
+          "name": "São Paulo",
+          "country": {
+            "nationalCode": "10581",
+            "name": "Brasil",
+            "isoCode": "BR",
+            "alpha2": "BR"
+          }
+        }
+      },
+      "contactEmail": "opobrigaces@ambev.com.br",
+      "shareCapitalAmount": 58275086270.41,
+      "incorporationDate": "2005-07-19",
+      "specialTaxStatus": "",
+      "specialTaxStatusDate": "",
+      "registrationStatus": [
+        {
+          "effectiveDate": "2005-07-19",
+          "reason": "",
+          "type": {
+            "code": 1,
+            "description": "Regular"
+          },
+          "code": 1,
+          "description": "Ativa"
+        }
+      ],
+      "address": {
+        "streetType": "Rua",
+        "streetName": "Dr Renato Paes de Barros",
+        "streetNumber": "1017",
+        "complement": "Andar 3 Edif Corp. Park",
+        "postalCode": "04530001",
+        "neighborhood": "Itaim Bibi",
+        "city": {
+          "externalCode": "3550308",
+          "name": "São Paulo",
+          "state": {
+            "acronym": "SP",
+            "name": "São Paulo",
+            "country": {
+              "nationalCode": "10581",
+              "name": "Brasil",
+              "isoCode": "BR",
+              "alpha2": "BR"
+            }
+          }
+        }
+      },
+      "phones": [
+        {
+          "areaCode": "19",
+          "phoneNumber": "33135680"
+        },
+        {
+          "areaCode": "19",
+          "phoneNumber": "33136000"
+        }
+      ],
+      "simpleNational": [],
+      "partners": [
+        {
+          "type": {
+            "code": 2,
+            "description": "Sócio"
+          },
+          "taxId": "",
+          "name": "CARLA SMITH DE VASCONCELLOS CRIPPA PRADO",
+          "role": {
+            "code": "10",
+            "description": "Diretor"
+          },
+          "inclusionDate": "2025-05-09T11: 44: 54.735Z",
+          "country": {
+            "nationalCode": "10581",
+            "name": "Brasil",
+            "isoCode": "BR",
+            "alpha2": "BR"
+          }
+        },
+        {
+          "type": {
+            "code": 2,
+            "description": "Sócio"
+          },
+          "taxId": "",
+          "name": "VALDECIR DUARTE",
+          "role": {
+            "code": "10",
+            "description": "Diretor"
+          },
+          "inclusionDate": "2025-05-09T11: 44: 54.735Z",
+          "country": {
+            "nationalCode": "10581",
+            "name": "Brasil",
+            "isoCode": "BR",
+            "alpha2": "BR"
+          }
+        },
+        {
+          "type": {
+            "code": 2,
+            "description": "Sócio"
+          },
+          "taxId": "",
+          "name": "DANIELA GAVRANIC CACHICH",
+          "role": {
+            "code": "10",
+            "description": "Diretor"
+          },
+          "inclusionDate": "2025-05-09T11: 44: 54.735Z",
+          "country": {
+            "nationalCode": "10581",
+            "name": "Brasil",
+            "isoCode": "BR",
+            "alpha2": "BR"
+          }
+        },
+        {
+          "type": {
+            "code": 2,
+            "description": "Sócio"
+          },
+          "taxId": "",
+          "name": "GUILHERME FLEURY DE FIGUEIREDO FERRAZ PAROLARI",
+          "role": {
+            "code": "10",
+            "description": "Diretor"
+          },
+          "inclusionDate": "2025-05-09T11: 44: 54.735Z",
+          "country": {
+            "nationalCode": "10581",
+            "name": "Brasil",
+            "isoCode": "BR",
+            "alpha2": "BR"
+          }
+        },
+        {
+          "type": {
+            "code": 2,
+            "description": "Sócio"
+          },
+          "taxId": "",
+          "name": "DANIEL WAKSWASER CORDEIRO",
+          "role": {
+            "code": "10",
+            "description": "Diretor"
+          },
+          "inclusionDate": "2025-05-09T11: 44: 54.735Z",
+          "country": {
+            "nationalCode": "10581",
+            "name": "Brasil",
+            "isoCode": "BR",
+            "alpha2": "BR"
+          }
+        },
+        {
+          "type": {
+            "code": 2,
+            "description": "Sócio"
+          },
+          "taxId": "",
+          "name": "EDUARDO EIJI HORAI",
+          "role": {
+            "code": "10",
+            "description": "Diretor"
+          },
+          "inclusionDate": "2025-05-09T11: 44: 54.735Z",
+          "country": {
+            "nationalCode": "10581",
+            "name": "Brasil",
+            "isoCode": "BR",
+            "alpha2": "BR"
+          }
+        },
+        {
+          "type": {
+            "code": 2,
+            "description": "Sócio"
+          },
+          "taxId": "",
+          "name": "PAULO ANDRE ZAGMAN",
+          "role": {
+            "code": "10",
+            "description": "Diretor"
+          },
+          "inclusionDate": "2025-05-09",
+          "country": {
+            "nationalCode": "10581",
+            "name": "Brasil",
+            "isoCode": "BR",
+            "alpha2": "BR"
+          }
+        },
+        {
+          "type": {
+            "code": 2,
+            "description": "Sócio"
+          },
+          "taxId": "",
+          "name": "LETICIA RUDGE BARBOSA KINA",
+          "role": {
+            "code": "10",
+            "description": "Diretor"
+          },
+          "inclusionDate": "2025-05-09",
+          "country": {
+            "nationalCode": "10581",
+            "name": "Brasil",
+            "isoCode": "BR",
+            "alpha2": "BR"
+          }
+        },
+        {
+          "type": {
+            "code": 2,
+            "description": "Sócio"
+          },
+          "taxId": "",
+          "name": "RICARDO MORAIS PEREIRA DE MELO",
+          "role": {
+            "code": "10",
+            "description": "Diretor"
+          },
+          "inclusionDate": "2025-05-09",
+          "country": {
+            "nationalCode": "10581",
+            "name": "Brasil",
+            "isoCode": "BR",
+            "alpha2": "BR"
+          }
+        },
+        {
+          "type": {
+            "code": 2,
+            "description": "Sócio"
+          },
+          "taxId": "",
+          "name": "JOAO COELHO RUA DERBLI DE CARVALHO",
+          "role": {
+            "code": "10",
+            "description": "Diretor"
+          },
+          "inclusionDate": "2025/05/09",
+          "country": {
+            "nationalCode": "10581",
+            "name": "Brasil",
+            "isoCode": "BR",
+            "alpha2": "BR"
+          }
+        },
+        {
+          "type": {
+            "code": 2,
+            "description": "Sócio"
+          },
+          "taxId": "",
+          "name": "FELIPE MOREIRA HADDAD BARUQUE",
+          "role": {
+            "code": "10",
+            "description": "Diretor"
+          },
+          "inclusionDate": "2025/05/09",
+          "country": {
+            "nationalCode": "10581",
+            "name": "Brasil",
+            "isoCode": "BR",
+            "alpha2": "BR"
+          }
+        },
+        {
+          "type": {
+            "code": 2,
+            "description": "Sócio"
+          },
+          "taxId": "",
+          "name": "CARLOS EDUARDO KLUTZENSCHELL LISBOA",
+          "role": {
+            "code": "10",
+            "description": "Diretor"
+          },
+          "inclusionDate": "2025/05/09",
+          "country": {
+            "nationalCode": "10581",
+            "name": "Brasil",
+            "isoCode": "BR",
+            "alpha2": "BR"
+          }
+        },
+        {
+          "type": {
+            "code": 2,
+            "description": "Sócio"
+          },
+          "taxId": "",
+          "name": "EDUARDO BRAGA CAVALCANTI DE LACERDA",
+          "role": {
+            "code": "10",
+            "description": "Diretor"
+          },
+          "inclusionDate": "2025/05/09",
+          "country": {
+            "nationalCode": "10581",
+            "name": "Brasil",
+            "isoCode": "BR",
+            "alpha2": "BR"
+          }
+        }
+      ]
     }
   ]
 }
